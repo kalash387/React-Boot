@@ -1,1 +1,1 @@
-# React-Boot
+➔	React-boot is a CRUD web application, developed using React in the front end, created a RESTful API in spring boot for the backend, and tested the API with Postman. MySQL is used as database for storing the data.
